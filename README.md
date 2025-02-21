@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | DevOps Enthusiast | AI/ML Enthusiast**
 
-I love building applications, exploring new technologies, and solving real-world problems. Passionate about **backend development, cloud computing, and AI**.
+I am Final year student at IIT Guwahati who love building applications, exploring new technologies, and solving real-world problems. Passionate about **backend development, cloud computing, and AI**.
 
 ## 🔥 Tech Stack
 - **Languages:** JavaScript, TypeScript, Python, C, C++, Java
