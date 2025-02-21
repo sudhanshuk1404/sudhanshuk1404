@@ -21,7 +21,5 @@ I love building applications, exploring new technologies, and solving real-world
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sudhanshus442/)
 
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudhanshuk1404&theme=dark)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sudhanshuk1404&theme=github)
