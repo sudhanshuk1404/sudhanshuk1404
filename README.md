@@ -1,6 +1,6 @@
 # Hi there, I'm Sudhanshu Kumar 👋
 
-🚀 **Full Stack Developer | DevOps Enthusiast | AI/ML Enthusiast**
+🚀 **AI Engineer @ SimplAI | Agentic AI Systems | Backend & LLM Infrastructure | Ex-AI Intern @ Sutra Sphere | IIT Guwahati ’25**
 
 I am Final year undergraduate at IIT Guwahati who love building applications, exploring new technologies, and solving real-world problems. Passionate about **backend development, cloud computing, and AI**.
 
